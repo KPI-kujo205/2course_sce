@@ -49,7 +49,7 @@
   - wrapper 🖐️ used
   - functor 🖐️ used
   - monad  👂 heard
-  - monoid  👂 heard
+  - monoid  🎓 known
   - generator 🖐️ used
   - coroutine  👂 heard
 - Data structures
@@ -61,21 +61,21 @@
   - object 🖐️ used
   - class 🖐️ used
   - collection 🖐️ used
-  - set 🖐️ used
-  - hash table 🖐️ used
-  - linked list 🖐️ used
-  - doubly list 🖐️ used
+  - set 🚀 constructed
+  - hash table 🚀 constructed
+  - linked list 🚀 constructed
+  - doubly list 🚀 constructed
   - unrolled list 🖐️ used
   - circular list 🖐️ used
   - queue 🖐️ used
-  - stack 🖐️ used
-  - deque 🖐️ used
-  - tree 🖐️ used
+  - stack 🚀 constructed
+  - deque 🔬 researched
+  - tree 🚀 constructed
   - graph 🖐️ used
-  - iterator 🖐️ used
+  - iterator 🔬 researched
   - mutable state 🖐️ used
   - immutable state 🖐️ used
-  - serialization 🖐️ used
+  - serialization  👂 heard
   - string parsing 🖐️ used
 - Process & style 🖐️ used
   - compiler 🖐️ used
@@ -84,14 +84,14 @@
   - polyfill 🖐️ used
   - debugger 🖐️ used
   - garbage collection 🖐️ used
-  - refactoring 🖐️ used
-  - code review 🖐️ used
-  - antipatterns 🖐️ used
+  - refactoring 🔬 researched
+  - code review 🔬 researched
+  - antipatterns 🔬 researched
   - paradigm 🖐️ used
   - algorithm 🖐️ used
   - magic numbers 🖐️ used
   - hardcode 🖐️ used
-  - complexity 🖐️ used
+  - complexity 🔬 researched
   - decomposition 🖐️ used
   - spaghetti 🖐️ used
   - silver bullet  👂 heard
@@ -101,6 +101,14 @@
   - duplicate code 🖐️ used
   - exception 🖐️ used
   - return early 🖐️ used
-  - unittest 🖐️ used
-  - git 🖐️ used
-  - github 🖐️ used
+  - unittest 🙋 explained
+  - git 🔬 researched
+  - github 🔬 researched
+
+👂 heard - чув про таке
+🎓 known - вивчав, знаю
+🖐️ used - використовував у 
+🙋 explained - можу пояснити за...
+📢 talked - робив доповідь
+🔬 researched - глибоко досліджував
+🚀 constructed - створив свою реалізацію (if applicabl)

@@ -35,7 +35,7 @@
 - Internal API
   - Streams API 👂 heard
   - Web Streams API 👂 heard
-  - Crypto API 👂 heard
+  - Crypto API 🖐️ used
   - Password hashing with node:crypto.scrypt
   - Web Crypto API 👂 heard
   - File system API: sync and async 👂 heard
@@ -67,7 +67,7 @@
   - Inversion of control 👂 heard
   - Dependency injection 👂 heard
   - GRASP 👂 heard
-  - SOLID
+  - SOLID 🖐️ used
   - GoF patterns 👂 heard
   - Distributed systems 👂 heard
   - Highload applications 👂 heard

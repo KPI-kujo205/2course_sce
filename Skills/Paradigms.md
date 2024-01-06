@@ -42,20 +42,20 @@
   - Introspection 👂 heard
   - Reflection 👂 heard
 - Patterns
-  - Singleton 🖐️ used
-  - Factory Method 🖐️ used
+  - Singleton 🚀 constructed
+  - Factory Method 🚀 constructed
   - Abstract Factory 👂 heard
   - Adapter 👂 heard
   - Observer 🖐️ used
   - Strategy 👂 heard
   - Facade 👂 heard
   - Proxy 👂 heard
-  - Chain of Responsibility
+  - Chain of Responsibility 🚀 constructed
   - Command 👂 heard
-  - Iterator 🖐️ used
+  - Iterator 🚀 constructed
   - State 👂 heard
   - Bridge 🖐️ used
-  - Builder 🖐️ used
+  - Builder 🚀 constructed
   - Prototype 🖐️ used
   - Composite 👂 heard
   - Decorator 🖐️ used
